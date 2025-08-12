@@ -1,7 +1,7 @@
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
 
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
+
+<br><br>
 
 
 
@@ -16,7 +16,7 @@
 <p align="left"> <a href="https://twitter.com/@mr_shelby0030" target="blank"><img src="https://img.shields.io/twitter/follow/@mr_shelby0030?logo=twitter&style=for-the-badge" alt="@mr_shelby0030" /></a> </p>
 
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="300">
+ <img align="right" height="400" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 <br><br>
 
 <div align="left">
