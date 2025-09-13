@@ -7,15 +7,11 @@
 
 
 <h1 align="center">Hi 👋, I'm Sougata Maity</h1>
-<h3 align="center">I’m an aspiring Java backend developer currently focused on mastering Java and Spring Boot.</h3>
+<h3 align="center">I’m an aspiring Web developer currently focused on mastering Java and Spring Boot.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=maitysougata&label=Profile%20views&color=0e75b6&style=flat" alt="maitysougata" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maitysougata" alt="maitysougata" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@mr_shelby0030" target="blank"><img src="https://img.shields.io/twitter/follow/@mr_shelby0030?logo=twitter&style=for-the-badge" alt="@mr_shelby0030" /></a> </p>
 
- <img align="right" height="400" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 <br><br>
 - 🔭 I’m currently working on **Deepening my understanding of **Java fundamentals** and **Object-Oriented Programming**.**
 
