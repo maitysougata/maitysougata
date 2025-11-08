@@ -8,17 +8,16 @@ Currently, I’m sharpening my skills in **JavaScript (Node.js)**, diving into *
 ---
 
 ### 🌱 What I'm currently working on
-- Enhancing my **Node.js full stack development** skills
-- Learning **Go (Golang)** for high-performance backend systems
+- Enhancing my **Java Backend development** skills
 - Exploring **Cloud & DevOps** (Docker, Kubernetes, CI/CD pipelines)
 - Building projects with **AI integration**
 
 ---
 
 ### 🛠️ Tech Stack
-- **Languages:** JavaScript (Node.js), Go, C  
+- **Languages:** Java , SpringBoot   
 - **Frontend:** HTML, CSS, React (basics)  
-- **Backend:** Node.js, Express, Go  
+- **Backend:** Java+SpringBoot   
 - **Databases:** PostgreSQL, MySQL  
 - **Cloud & DevOps:** Docker, Kubernetes, GitHub Actions (learning)  
 - **Other Interests:** AI integration into applications  
