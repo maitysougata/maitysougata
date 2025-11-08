@@ -1,9 +1,9 @@
 # Hi there, I'm Sougata 👋
 
-🚀 **Aspiring Full Stack Developer | Cloud & DevOps Enthusiast | AI Explorer**
+🚀 **Aspiring Java Backend Developer | Cloud & DevOps Enthusiast | AI Explorer**
 
 I'm a **Computer Science B.Tech student** passionate about building scalable applications and exploring new technologies.  
-Currently, I’m sharpening my skills in **JavaScript (Node.js)**, diving into **Golang**, and learning about **Cloud platforms & DevOps tools**.  
+Currently, I’m sharpening my skills in **Java Backend Devolopement**, and learning about **Cloud platforms & DevOps tools**.  
 
 ---
 
@@ -27,12 +27,6 @@ Currently, I’m sharpening my skills in **JavaScript (Node.js)**, diving into *
 ### 📌 My Projects are available in my portfolio website
 - 🔹 **[httpa://sougata.vercel.app](https://sougata.vercel.app)** – Personal portfolio showcasing skills and projects  
  
-
----
-
-### 📈 GitHub Stats
-![Sougata's GitHub stats](https://github-readme-stats.vercel.app/api?username=maitysougata&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maitysougata&layout=compact&theme=radical)
 
 ---
 
