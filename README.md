@@ -25,7 +25,7 @@ Currently, I’m sharpening my skills in **Java Backend Devolopement**, and lear
 ---
 
 ### 📌 My Projects are available in my portfolio website
-- 🔹 **[httpa://sougata.vercel.app](https://sougata.vercel.app)** – Personal portfolio showcasing skills and projects  
+- 🔹 **LOADING!!** – Personal portfolio showcasing skills and projects  
  
 
 ---
@@ -33,7 +33,7 @@ Currently, I’m sharpening my skills in **Java Backend Devolopement**, and lear
 ### 🤝 Let's Connect
 - 💼 [LinkedIn](https://www.linkedin.com/in/sougata-maity-b1653b2b1/)  
 - 🐦 [Twitter](https://x.com/Mr_Shelby0030)  
-- 🌐 [Portfolio](https://sougata.vercel.app)  
+- 🌐 [Portfolio](LOADING!!!)  
 
 ---
 
