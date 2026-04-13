@@ -33,7 +33,7 @@ Currently, I’m sharpening my skills in **Java Backend Devolopement**, and lear
 ### 🤝 Let's Connect
 - 💼 [LinkedIn](https://www.linkedin.com/in/sougata-maity-b1653b2b1/)  
 - 🐦 [Twitter](https://x.com/Mr_Shelby0030)  
-- 🌐 [Portfolio](LOADING!!!)  
+- 🌐 [Portfolio](sougata.vercel.app)  
 
 ---
 
